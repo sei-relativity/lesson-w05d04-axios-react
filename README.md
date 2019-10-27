@@ -11,4 +11,4 @@ Create a react app that render Posts form external API. Through this code along 
 
 ### Final result: 
 
-![](final.png)
+![](Image.png)
