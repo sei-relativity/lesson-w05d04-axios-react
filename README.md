@@ -7,7 +7,7 @@ This project was created with [`create-react-app`](https://facebook.github.io/cr
 
 ### Big Goal:
 
-Create a react app that render Posts form external API. Through this code along we will cover the best place can call an API inside Component live circle.
+Create a react app that render Posts form external API. Through this code along we will cover the best place can call an API inside Component Life cycle.
 
 ### Final result: 
 
