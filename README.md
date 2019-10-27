@@ -9,6 +9,13 @@ This project was created with [`create-react-app`](https://facebook.github.io/cr
 
 Create a react app that render Posts form external API. Through this code along we will cover the best place can call an API inside Component Life cycle.
 
+### API URL:
+
+We will use this fake API to build our App.
+```js
+const apiURL = 'https://jsonplaceholder.typicode.com/posts/';
+```
+
 ### Final result: 
 
 ![](Image.png)
